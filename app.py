@@ -79,7 +79,7 @@ def scrape_off_form_skeleton_from_google_forms(your_google_forms_url):
 
 @app.route('/')
 def home():
-    return render_template('index.html')
+    return render_template('index.htm')
 
 @app.route('/scrape', methods=['POST'])
 def scrape():
