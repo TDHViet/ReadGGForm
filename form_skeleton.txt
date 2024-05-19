@@ -1,0 +1,126 @@
+TITLE: BÀI KIỂM TRA DM
+DESCRIPTION: None
+FORM ID: e/1FAIpQLSdxAPGamiEpx7MyBWAxnLFQPr9eFjcfgKm-eSX9rjU9FcScZA
+
+QUESTION: HỌ VÀ TÊN
+TYPE: Short Answer
+IS REQUIRED: YES
+SUBMIT ID: 366340186
+
+----------------------------------------
+QUESTION: LỚP
+TYPE: Short Answer
+IS REQUIRED: YES
+SUBMIT ID: 1595660811
+
+----------------------------------------
+QUESTION: PASSWORD
+TYPE: Short Answer
+IS REQUIRED: YES
+SUBMIT ID: 441978924
+
+----------------------------------------
+QUESTION: 1. Để thu giảm dữ liệu, ta có thể sử dụng phương pháp 
+TYPE: Multiple Choice
+IS REQUIRED: YES
+ANSWER LIST:
+- Tất cả những phương án còn lại.
+- Phân tích thành phần chính.
+- Kết hợp khối dữ liệu
+- Lấy mẫu dữ liệu
+SUBMIT ID: 325700280
+
+----------------------------------------
+QUESTION: 2.  Khoảng giá trị của hàm logit được định nghĩa trong miền [0; 1] là 
+TYPE: Multiple Choice
+IS REQUIRED: YES
+ANSWER LIST:
+- [−vocung; vocung]
+- [0,1]
+- [0, vocung]
+- [-1, 1]
+SUBMIT ID: 540971159
+
+----------------------------------------
+QUESTION: 3. Một mô hình perceptron luôn học được với một hệ số phù hợp cho trước?
+TYPE: Multiple Choice
+IS REQUIRED: YES
+ANSWER LIST:
+- Sai
+- Đúng
+SUBMIT ID: 451889876
+
+----------------------------------------
+QUESTION: 4. Đâu là đặc điểm chung của quy tắc lan truyền ngược (back propagation)?
+TYPE: Multiple Choice
+IS REQUIRED: YES
+ANSWER LIST:
+- Tốc độ hội tụ chậm
+- Hội tụ địa phương
+- Khó áp dụng với kích thước lớn
+- Tất cả đặc điểm này
+SUBMIT ID: 264899366
+
+----------------------------------------
+QUESTION: 5. Có bao nhiêu cụm được sinh bởi giải thuật k-means
+TYPE: Multiple Choice
+IS REQUIRED: YES
+ANSWER LIST:
+- 2^k
+- Một bội số của k
+- k
+- e^k
+SUBMIT ID: 606650080
+
+----------------------------------------
+QUESTION: 6. Khoảng cách giữa các cụm dữ liệu Ci và Cj có thể được tính bởi
+TYPE: Multiple Choice
+IS REQUIRED: YES
+ANSWER LIST:
+- Tất cả đều được.
+- Liên kết đơn
+- Liên kết đầy đủ
+- Khoảng cách tâm
+SUBMIT ID: 458942032
+
+----------------------------------------
+QUESTION: 7. Một mô hình hồi quy logistic có thể được xây dựng bằng cách sử dụng một mạng nơ-ron nhân tạo?
+TYPE: Multiple Choice
+IS REQUIRED: YES
+ANSWER LIST:
+- Đúng
+- Sai
+SUBMIT ID: 1798720787
+
+----------------------------------------
+QUESTION: 8. Các mô hình hồi quy logistic chỉ sử dụng cho các bài toán hồi quy dữ liệu
+TYPE: Multiple Choice
+IS REQUIRED: YES
+ANSWER LIST:
+- Đúng
+- Sai
+SUBMIT ID: 1810985282
+
+----------------------------------------
+QUESTION: 9. Hàm độ đo nào thường được dùng với dữ liệu nhị phân?
+TYPE: Multiple Choice
+IS REQUIRED: YES
+ANSWER LIST:
+- Mahattan
+- Euclidean
+- Jaccard.
+- Minkowski
+SUBMIT ID: 1077405057
+
+----------------------------------------
+QUESTION: 10. Hàm y = alog(bx) là
+TYPE: Multiple Choice
+IS REQUIRED: YES
+ANSWER LIST:
+- một hàm hồi quy tuyến tính
+- một hàm sigmoid
+- một hàm hồi quy phi tuyến
+- một hàm mất mát
+SUBMIT ID: 1380522481
+
+----------------------------------------
